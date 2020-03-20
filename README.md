@@ -1,2 +1,3 @@
 # hello-world
-the first
+首先
+i want to find a now world
